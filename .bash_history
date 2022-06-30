@@ -46,3 +46,11 @@ git add .
 git commit -m "Second Commit" .
 git status
 git log
+git status
+add .
+git add .
+git status
+git commit -m "Fourth Commit" .
+git status
+ls
+ll -al
