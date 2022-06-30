@@ -54,3 +54,37 @@ git commit -m "Fourth Commit" .
 git status
 ls
 ll -al
+git add .
+git commit -m "Third Commit" .
+git status
+git remoter add https://github.com/sudarshanbijjula/repo1.git
+git remote add https://github.com/sudarshanbijjula/repo1.git
+clear
+git branch
+git push -u origin master
+git status
+git add .
+git commit -m "Fourth Commit" .
+git status
+git remote add https://github.com/sudarshanbijjula/repo1.git
+git remote add origin https://github.com/sudarshanbijjula/repo1.git
+git push -u origin master
+pwd
+git branch
+git branch branch1
+git branch
+git checkout branch1
+git branch
+ll
+touch file3
+ll
+git checkout branch
+git checkout master
+git status
+ll
+git status
+git add file3 | commit -m "File3 Commited"
+git add file3 | git commit -m "File3 Commited"
+git status
+git push -u origin master
+git status
